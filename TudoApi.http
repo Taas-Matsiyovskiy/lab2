@@ -1,0 +1,6 @@
+@TudoApi_HostAddress = http://localhost:5098
+
+GET {{TudoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

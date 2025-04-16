@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "UEvMFTvxK6N3TJg8uSud2nQcFhdkjaUYUo6sAT7tDT4=",
+  "Source": "TudoApi",
+  "BasePath": "_content/TudoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TudoApi\\wwwroot",
+      "Source": "TudoApi",
+      "ContentRoot": "C:\\Users\\matsi\\source\\repos\\TudoApi\\TudoApi\\wwwroot\\",
+      "BasePath": "_content/TudoApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\matsi\\source\\repos\\TudoApi\\TudoApi\\wwwroot\\CSS\\site.css",
+      "SourceId": "TudoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matsi\\source\\repos\\TudoApi\\TudoApi\\wwwroot\\",
+      "BasePath": "_content/TudoApi",
+      "RelativePath": "CSS/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hacy1o4bgp",
+      "Integrity": "uXOOUG5rGj9xO6X0xm8nlOTfZqzNFWnjWFsU+xSZPwY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CSS\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\matsi\\source\\repos\\TudoApi\\TudoApi\\wwwroot\\Index.html",
+      "SourceId": "TudoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matsi\\source\\repos\\TudoApi\\TudoApi\\wwwroot\\",
+      "BasePath": "_content/TudoApi",
+      "RelativePath": "Index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xcd7lwpdaq",
+      "Integrity": "YcRnj6OjJdhPTolAueSi+QMEWrGqLYjDDohiDPSSlfM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    },
+    {
+      "Identity": "C:\\Users\\matsi\\source\\repos\\TudoApi\\TudoApi\\wwwroot\\js\\site.js",
+      "SourceId": "TudoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matsi\\source\\repos\\TudoApi\\TudoApi\\wwwroot\\",
+      "BasePath": "_content/TudoApi",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ylr1fkofsb",
+      "Integrity": "+j7CbGSz9n+WI9iGm6SmB20i/9xAkl/ZNBXMhJ7vAL0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "CSS/site.css",
+      "AssetFile": "C:\\Users\\matsi\\source\\repos\\TudoApi\\TudoApi\\wwwroot\\CSS\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uXOOUG5rGj9xO6X0xm8nlOTfZqzNFWnjWFsU+xSZPwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 17:37:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uXOOUG5rGj9xO6X0xm8nlOTfZqzNFWnjWFsU+xSZPwY="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/site.hacy1o4bgp.css",
+      "AssetFile": "C:\\Users\\matsi\\source\\repos\\TudoApi\\TudoApi\\wwwroot\\CSS\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uXOOUG5rGj9xO6X0xm8nlOTfZqzNFWnjWFsU+xSZPwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 17:37:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hacy1o4bgp"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uXOOUG5rGj9xO6X0xm8nlOTfZqzNFWnjWFsU+xSZPwY="
+        }
+      ]
+    },
+    {
+      "Route": "Index.html",
+      "AssetFile": "C:\\Users\\matsi\\source\\repos\\TudoApi\\TudoApi\\wwwroot\\Index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YcRnj6OjJdhPTolAueSi+QMEWrGqLYjDDohiDPSSlfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 17:37:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YcRnj6OjJdhPTolAueSi+QMEWrGqLYjDDohiDPSSlfM="
+        }
+      ]
+    },
+    {
+      "Route": "Index.xcd7lwpdaq.html",
+      "AssetFile": "C:\\Users\\matsi\\source\\repos\\TudoApi\\TudoApi\\wwwroot\\Index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YcRnj6OjJdhPTolAueSi+QMEWrGqLYjDDohiDPSSlfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 17:37:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xcd7lwpdaq"
+        },
+        {
+          "Name": "label",
+          "Value": "Index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YcRnj6OjJdhPTolAueSi+QMEWrGqLYjDDohiDPSSlfM="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\matsi\\source\\repos\\TudoApi\\TudoApi\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+j7CbGSz9n+WI9iGm6SmB20i/9xAkl/ZNBXMhJ7vAL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 17:37:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+j7CbGSz9n+WI9iGm6SmB20i/9xAkl/ZNBXMhJ7vAL0="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.ylr1fkofsb.js",
+      "AssetFile": "C:\\Users\\matsi\\source\\repos\\TudoApi\\TudoApi\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+j7CbGSz9n+WI9iGm6SmB20i/9xAkl/ZNBXMhJ7vAL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 17:37:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ylr1fkofsb"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+j7CbGSz9n+WI9iGm6SmB20i/9xAkl/ZNBXMhJ7vAL0="
+        }
+      ]
+    }
+  ]
+}
